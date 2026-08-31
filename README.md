@@ -1,6 +1,15 @@
+# Relay AI — predecessor of OpsConcierge
+
+> **This repo is superseded.** Current product: [**opsconcierge**](https://github.com/YatharthSharma1309/opsconcierge)  
+> Public demo: **https://support-ai-nine-mu.vercel.app** (do not use `relay-ai-app.vercel.app` — it is not a public demo)
+
+The active codebase lives in [YatharthSharma1309/opsconcierge](https://github.com/YatharthSharma1309/opsconcierge).
+
+---
+
 # Relay AI — Support & Recruitment Platform
 
-**Portfolio flagship** — unified multi-tenant SaaS combining **customer support** and **recruitment** in one workspace.
+**Former portfolio flagship** — unified multi-tenant SaaS combining **customer support** and **recruitment** in one workspace. Now branded **OpsConcierge**.
 
 | Module | Capabilities |
 |--------|----------------|
@@ -11,7 +20,7 @@ Built with **Next.js 16**, **React 19**, **TypeScript**, **Prisma + PostgreSQL**
 
 ## Live demo
 
-**https://relay-ai-app.vercel.app** (also https://support-ai-nine-mu.vercel.app)
+**https://support-ai-nine-mu.vercel.app**
 
 Click **Open live demo** on the landing page — no sign-in required. Try RAG chat with citations, ticket workflows, recruitment AI scoring, analytics, and the embeddable widget.
 
@@ -74,7 +83,7 @@ See [DEPLOY.md](./DEPLOY.md) for Vercel + Neon + Clerk production setup.
 |------|--------|
 | GitHub | [YatharthSharma1309/relay-ai](https://github.com/YatharthSharma1309/relay-ai) |
 | Vercel project | `relay-ai` |
-| Production URL | https://relay-ai-app.vercel.app |
+| Production URL | https://support-ai-nine-mu.vercel.app |
 
 ## Scripts
 
